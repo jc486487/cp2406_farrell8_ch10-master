@@ -1,7 +1,7 @@
 // A Play has a title and author
 // A Musical is a Play that also has a composer
 
-public class DebugTen1
+public class FixDebugTen1
 {
    public static void main(String args[])
    {

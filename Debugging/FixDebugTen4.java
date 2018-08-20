@@ -1,6 +1,6 @@
 // A customer's purchase is approved if the
 // purchase does not exceed the credit limit
-public class DebugTen4
+public class FixDebugTen4
 {
    public static void main(String args[])
    {

@@ -1,6 +1,6 @@
 // A PhoneBook is a Book with a city
 import javax.swing.*;
-public class DebugTen3
+public class FixDebugTen3
 {
    public static void main(String[] args)
    {
